@@ -205,7 +205,7 @@ body{
 }
 .nav-close svg{
     cursor: pointer;
-    fill: var(--clr-dark);
+    fill: var(--clr-primary);
     height: 40px;
     width: 40px; 
     transition: var(--transition);
